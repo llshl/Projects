@@ -14,7 +14,7 @@ robot1 = Robot(left=(IN1, IN2, ENA), right=(IN3, IN4, ENB))
 robot2 = Robot(left=(IN5, IN6, ENC), right=(IN7, IN8, END))
 
 global velocity
-velocity = 0.35
+velocity = 0.3
 flag = 0 #1:전진 2:후진 3:좌회전 4:우회전 5:정지 6:자율주행 7:pwrL 8:pwrR
 OnOff = False
 def forward():
@@ -38,13 +38,15 @@ def backward():
     else:
         flag = 2
         
-def slowLeft():
+def slowLeft(localVelocity):
     global flag
+    localVelocity
     robot1.forward(curve_left=0.5)
     robot2.forward(curve_left=0.5)
 
-def slowRight():
+def slowRight(localVelocity):
     global flag
+    localVelocity
     robot1.forward(curve_right=0.5)
     robot2.forward(curve_right=0.5)
     
