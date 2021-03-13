@@ -35,5 +35,5 @@
 
 
 ## 7. [벽돌깨기게임/Brick Out](https://github.com/llshl/ToyProject/tree/main/Brick%20Out)(19.05.13~19.06.19)
-- Visual Studio에서 MFC프로그래밍을 통한 벽돌깨기게임
+- Visual Studio MFC프로그래밍을 통한 벽돌깨기게임
 
