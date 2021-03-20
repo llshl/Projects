@@ -1,7 +1,7 @@
 # ToyProject
 
 ## 1. [자율주행자동차/Autonomous Car](https://github.com/llshl/ToyProject/tree/main/Autonomous%20Car)(20.11.01~20.11.20)
-- 교내 임베디드 경진대회 최우수상 수상작
+- 교내 임베디드 경진대회 수상작
 - Python과 OpenCV를 사용한 프로젝트
 - 차선인식 후 Raspberry Pi를 사용한 모터제어 및 신호등 색 추출을 통한 정차기능
 
