@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "산기대 빠른이동",
+    "description": "한국산업기술대학교 학생들을 위한 빠른이동 플러그인",
+    "version": "1.1",
+    "browser_action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "kpulogo.png",
+        "32": "kpulogo.png"
+      }
+    }
+  }
