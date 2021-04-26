@@ -1,4 +1,4 @@
-# Project
+# Projects
 
 ## 1. [자율주행자동차/Autonomous Car](https://github.com/llshl/ToyProject/tree/main/Autonomous%20Car)(20.11.01~20.11.20)
 - 교내 임베디드 경진대회 수상작
