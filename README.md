@@ -6,7 +6,7 @@
 - 차선인식 후 Raspberry Pi를 사용한 모터제어 및 신호등 색 추출을 통한 정차기능
 
 
-## 2. [KPU 바로가기 Whale 플러그인/PU Shortcut Plugin](https://github.com/llshl/projects/tree/main/KPU_Shortcut_Plugin)(21.04.27~21.04.27)
+## 2. [KPU 바로가기 Whale 플러그인/KPU Shortcut Plugin](https://github.com/llshl/projects/tree/main/KPU_Shortcut_Plugin)(21.04.27~21.04.27)
 - 한국산업기술대학교 학생들이 자주 사용하는 웹페이지로 바로 이동하는 웨일브라우저용 플러그인 
 - HTML,SCC,Javascript
 - Whale Store 배포완료
