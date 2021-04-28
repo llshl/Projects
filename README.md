@@ -38,8 +38,3 @@
 
 ## 7. [유튜브 프론트엔드 클론코딩/Youtube Front Clone Coding](https://github.com/llshl/ToyProject/tree/main/Youtube%20Front%20Clone%20Coding)(20.07.01~20.07.08)
 - HTML, CSS, JS를 통해 유튜브 프론트엔드 구현
-
-
-## 8. [벽돌깨기게임/Brick Out](https://github.com/llshl/ToyProject/tree/main/Brick%20Out)(19.05.13~19.06.19)
-- Visual Studio MFC프로그래밍을 통한 벽돌깨기게임
-
