@@ -23,23 +23,18 @@ Python과 OpenCV을 사용하여 차선을 검출해내고 동시에 신호등�
 
 # 4. Result
 ## 4.1 차선검출을 통한 방향 제어
-![프로그램 프름도](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "프로그램 프름도")
-![프로그램 프름도](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "프로그램 프름도")
-![프로그램 프름도](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "프로그램 프름도")
 ![주행 알고리즘](https://user-images.githubusercontent.com/52540882/116739838-2112d800-aa2f-11eb-9afd-f58211392558.PNG)   
-주행 알고리즘
-
+* 주행 알고리즘
 ![차선검출](https://user-images.githubusercontent.com/52540882/116739461-ae096180-aa2e-11eb-84eb-50b906ef0d3b.gif)   
-차선검출
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/52540882/116738951-1572e180-aa2e-11eb-8c3c-3c9cb2ea5c9a.gif)   차선을 따라 자율주행
+* 차선검출
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/52540882/116738951-1572e180-aa2e-11eb-8c3c-3c9cb2ea5c9a.gif)    
+* 차선을 따라 자율주행
 
- 주행 알고리즘 이미지
- 차선검출한 이미지
- 차선검출 움짤
- 방향 로그 이미지
- 주행 움짤
-
-## 4.2 직관적인 UI를 사용한 수동조작
+## 4.2 신호등 색 검출을 통한 주행/정지
+![신호등검출](https://user-images.githubusercontent.com/52540882/116740082-764ee980-aa2f-11eb-8cf9-b76617fbe19d.png)   
+* 파란불 신호를 인식하여 box표시
+* 
+## 4.3 직관적인 UI를 사용한 수동조작
 ![조작 UI](https://user-images.githubusercontent.com/52540882/116739074-3804fa80-aa2e-11eb-9a94-ecd8fa78f98e.jpg)
 Python Bottle Framework를 통한 수동 조작 UI 웹페이지 배포
 
