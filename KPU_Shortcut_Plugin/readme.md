@@ -10,7 +10,7 @@
 * VSCode
 
 # 3. Result
-![주행 알고리즘](https://user-images.githubusercontent.com/52540882/116739838-2112d800-aa2f-11eb-9afd-f58211392558.PNG)   
+![웨일플러그인](https://user-images.githubusercontent.com/52540882/116742153-f1b19a80-aa31-11eb-91b9-b1f6c372b64e.PNG)
 * 브라우저에 설치하여 사용하는 모습      
 ![웨일스토어](https://user-images.githubusercontent.com/52540882/116742106-dfcff780-aa31-11eb-84ab-fdaba5cfb006.PNG)
 * 웨일스토어 업로드를 통한 배포
