@@ -33,10 +33,10 @@ Python과 OpenCV을 사용하여 차선을 검출해내고 동시에 신호등�
 ## 4.2 신호등 색 검출을 통한 주행/정지
 ![신호등검출](https://user-images.githubusercontent.com/52540882/116740082-764ee980-aa2f-11eb-8cf9-b76617fbe19d.png)   
 * 파란불 신호를 인식하여 box표시
-* 
+ 
 ## 4.3 직관적인 UI를 사용한 수동조작
 ![조작 UI](https://user-images.githubusercontent.com/52540882/116739074-3804fa80-aa2e-11eb-9a94-ecd8fa78f98e.jpg)
-Python Bottle Framework를 통한 수동 조작 UI 웹페이지 배포
+* Python Bottle Framework를 통한 수동 조작 UI 웹페이지 배포
 
 # 4. Problem/Improve
 ## 4.1. 라즈베리파이의 연산량 한계 초과 이슈
