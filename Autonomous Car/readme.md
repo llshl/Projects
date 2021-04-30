@@ -26,8 +26,7 @@ Python과 OpenCV을 사용하여 차선을 검출해내고 동시에 신호등�
 ![프로그램 프름도](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "프로그램 프름도")
 ![프로그램 프름도](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "프로그램 프름도")
 ![프로그램 프름도](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "프로그램 프름도")
-![프로그램 프름도](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "프로그램 프름도")
-![프로그램 프름도](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "프로그램 프름도")
+![차선검출](https://user-images.githubusercontent.com/52540882/116739461-ae096180-aa2e-11eb-84eb-50b906ef0d3b.gif)
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/52540882/116738951-1572e180-aa2e-11eb-8c3c-3c9cb2ea5c9a.gif)
 
  주행 알고리즘 이미지
