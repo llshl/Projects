@@ -23,10 +23,8 @@ Python과 OpenCV을 사용하여 차선을 검출해내고 동시에 신호등�
 
 # 4. Result
 ## 4.1 차선검출을 통한 방향 제어
-![주행 알고리즘](https://user-images.githubusercontent.com/52540882/116739838-2112d800-aa2f-11eb-9afd-f58211392558.PNG)   
-* 주행 알고리즘
-![차선검출](https://user-images.githubusercontent.com/52540882/116739461-ae096180-aa2e-11eb-84eb-50b906ef0d3b.gif)   
-* 차선검출
+![주행 알고리즘](https://user-images.githubusercontent.com/52540882/116739838-2112d800-aa2f-11eb-9afd-f58211392558.PNG)* 주행 알고리즘   
+![차선검출](https://user-images.githubusercontent.com/52540882/116739461-ae096180-aa2e-11eb-84eb-50b906ef0d3b.gif)* 차선검출   
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/52540882/116738951-1572e180-aa2e-11eb-8c3c-3c9cb2ea5c9a.gif)    
 * 차선을 따라 자율주행
 
