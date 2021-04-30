@@ -37,8 +37,8 @@ Python과 OpenCV을 사용하여 차선을 검출해내고 동시에 신호등�
  주행 움짤
 
 ## 4.2 직관적인 UI를 사용한 수동조작
-![프로그램 프름도](http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0 "프로그램 프름도")
-방향키 이미지
+![조작 UI](https://user-images.githubusercontent.com/52540882/116739074-3804fa80-aa2e-11eb-9a94-ecd8fa78f98e.jpg)
+Python Bottle Framework를 통한 수동 조작 UI 웹페이지 배포
 
 # 4. Problem/Improve
 ## 4.1. 라즈베리파이의 연산량 한계 초과 이슈
