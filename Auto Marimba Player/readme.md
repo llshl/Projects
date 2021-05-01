@@ -21,12 +21,8 @@
 ## 4.1 Midi 프로그램과 Arduino Promicro간의 무선 통신
 ![신호받기gif](https://user-images.githubusercontent.com/52540882/116780616-c3c36900-aab8-11eb-8e79-b20d60355e9e.gif)
 ![신호받기1](https://user-images.githubusercontent.com/52540882/116780337-0ab05f00-aab7-11eb-9150-bd82fcb4a19b.png)
-* 미디 프로그램에서 받은 음표 신호를 콘솔을 통해 확인     
+* 미디 프로그램에서 받은 음표 신호를 콘솔을 통해 확인   
 
-## 4.2 만능기판 솔더링을 통한 회로 제작
-![차선검출](https://user-images.githubusercontent.com/52540882/116739461-ae096180-aa2e-11eb-84eb-50b906ef0d3b.gif)   
-* 패키징 별도
-     
 ## 4.2 액추에이터 2개를 통한 동작 시험
 ![마림바 연주움짤](https://user-images.githubusercontent.com/52540882/116780741-6aa80500-aab9-11eb-925d-dd9dd246f97b.gif)
 * 2개의 모터에 대한 테스트 후 추가 제작 결정
