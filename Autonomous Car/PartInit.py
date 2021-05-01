@@ -14,7 +14,7 @@ class motorAction:
 
     def whereControl(self):
         where = 320 - self.state
-        lev = int(where) / 30  # 130까지 나왔음 130%30은 4 그 이상은 5단계로하자
+        lev = int(where) / 30 
         # print(lev)
         level = self.reverse * round(lev)
         print('xt =' + str(self.state) + ' lev = ' + str(level) + 'yt = ' + str(yt) + 'self.reverse = ' + str(
