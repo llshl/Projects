@@ -3,7 +3,7 @@
 ****
 # 2. Structure
 ## 2.1. 전체 프로그램 순서도
-
+![iot순서도](https://user-images.githubusercontent.com/52540882/116789436-bffc0a80-aae9-11eb-97cf-ef42299cc30e.PNG)
 
 ****
 # 3. Language/Tools
@@ -14,5 +14,5 @@
 * InfluxDB
 * Grafana
 * Docker
-****
+
 
