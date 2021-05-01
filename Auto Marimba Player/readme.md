@@ -6,7 +6,7 @@
 ****
 # 2. Structure
 ## 2.1. 프로그램 프름도
-![자율주행차흐름도](https://user-images.githubusercontent.com/52540882/116738808-e2c8e900-aa2d-11eb-9172-7974a5c039d8.PNG)
+![마림바 흐름도](https://user-images.githubusercontent.com/52540882/116779905-059de080-aab4-11eb-96ee-aabe680f59f6.PNG)
    
 ****
 # 3. Language/Tools
@@ -35,4 +35,5 @@
 ****
 # 5. Problem/Improve
 ## 5.1. 아두이노 SRAM 용량 초과
+![메모리초과](https://user-images.githubusercontent.com/52540882/116779903-033b8680-aab4-11eb-999d-4c30066a7840.png)   
 * 각 액추에이터별 하강/상승 동작의 시간을 long int형으로 각각 제어를 시도했더니 보드의 SRAM 최대 용량인 2KB를 초과하는 이슈가 있었다.
