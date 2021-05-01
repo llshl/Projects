@@ -1,9 +1,9 @@
 import threading
-import zodo
-import lider
+import LightControlByLux
+import LidarFunction
 from bottle import route, run, get, post, response, static_file, request
-from customControlServer import *
-import customControlServer
+from CustomizedControlServer import *
+import CustomizedControlServer
 class motorAction:
     def __init__(self, target, index):
         self.state = target
