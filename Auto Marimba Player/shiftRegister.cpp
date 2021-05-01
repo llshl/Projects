@@ -90,6 +90,7 @@ void intitializeRegisters()
   
 }
 
+
 void activateNote(uint8_t note, uint8_t velocity)
 {
 	if(velocity > 0)
@@ -97,7 +98,7 @@ void activateNote(uint8_t note, uint8_t velocity)
 		conformVelocity(velocity);
     Ch_activate[note].Cnote(note,velocity);
     Ch_activate[note].motor_down();
-  }
+  } 
 }
 
 void checkForMotor(long sys_time)

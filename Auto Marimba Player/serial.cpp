@@ -44,3 +44,4 @@ void sendSerialToUSB(String* message, int lengthOfMessage)
 	for(int index = 0; index < lengthOfMessage; index++)
 		Serial.println(message[index]);
 }
+
