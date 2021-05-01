@@ -26,12 +26,6 @@
 
 ## 5. [홈 가전 제어/Home Iot](https://github.com/llshl/ToyProject/tree/main/Home%20Iot)(19.11.22~19.12.20)
 - IOT기초 팀프로젝트
-- ESP-8266를 사용한 가습기, 선풍기, 무드등 자동 제어 시스템
+- ESP8266를 사용한 가습기, 선풍기, 무드등 자동 제어 시스템
 - 온습도,조도 수집 후 MQTT통신 수행
 - AWS EC2 인스턴스에 InfluxDB와 Grafana를 통해 데이터 저장 및 시각화
-
-
-## 6. [LED잔상 디스플레이/LED POV Display](https://github.com/llshl/ToyProject/tree/main/LED%20POV%20Display)(20.04.01~20.05.29)
-- 교내 CPCOP공모전 출품작
-- Atmega128을 사용, 블루투스를 통해 모바일에서 모터제어와 LED점등 주기 및 텍스트 설정가능
-
