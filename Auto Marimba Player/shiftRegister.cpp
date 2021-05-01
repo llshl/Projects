@@ -84,7 +84,7 @@ const char     MAX_PWM = 255;
 void intitializeRegisters()
 {
 	const char    PWM_FREQUENCY = 75;
-	const int     NUM_REGISTERS = 10;   //레지스터개수지정
+	const int     NUM_REGISTERS = 10;   
 	ShiftPWM.SetAmountOfRegisters(NUM_REGISTERS);
 	ShiftPWM.Start(PWM_FREQUENCY, MAX_PWM);
   
@@ -111,11 +111,6 @@ void checkForMotor(long sys_time)
 void conformVelocity(uint8_t& velocity)
 {
   velocity = map(velocity,1,127,50,255);
-  /*
-	//conforms velocity from 0-127 to 0-255 while taking into account the minimum possible solenoid PWM
-	const double MIN_PWM = round(MAX_PWM * pwmPercent / static_cast<double>(100));
-	velocity = round(velocity * (MAX_PWM - MIN_PWM) / static_cast<double>(127) + MIN_PWM);
-  */
 }
 
 

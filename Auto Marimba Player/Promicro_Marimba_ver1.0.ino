@@ -26,11 +26,8 @@ void setup()
 
 void loop()
 {
-  Sys_time = millis();
+  	Sys_time = millis();
 	checkForMidiUSB();
 	checkForSerial();
-  checkForMotor(Sys_time);
-  
-  
-
+  	checkForMotor(Sys_time);
 }

@@ -23,13 +23,12 @@ void checkForSerial()
 				Serial.println("----------------");
 			}
 		} else
-			if(header == SETTING_HEADER)
-			{
-				uint8_t value1 = Serial1.read();
-				uint8_t value2 = Serial1.read();
-				//Pro Micro knows that only one setting is being sent
-				pwmPercent = value2;
-			}
+		if(header == SETTING_HEADER)
+		{
+			uint8_t value1 = Serial1.read();
+			uint8_t value2 = Serial1.read();
+			pwmPercent = value2;
+		}
 	}
 }
 
