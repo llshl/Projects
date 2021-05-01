@@ -4,15 +4,15 @@ import math
 import cv2
 import numpy as np
 import time
-import lider
-import partinit as p
-import TrafficLight as TL
-import setlocation as AUTO
+import LidarFunction
+import PartInit as p
+import MotorControlByTrafficLight as TL
+import LocationSetting as AUTO
 t2 = None
 #from bottle import route, run, get, post, response, static_file, request
-from customControlServer import *
-import customControlServer
-import motor as mv
+from CustomizedControlServer import *
+import CustomizedControlServer
+import MotorControl as mv
 rcount = 0
 lcount = 0
 srcount = 0
