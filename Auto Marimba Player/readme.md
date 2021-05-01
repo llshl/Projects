@@ -19,10 +19,10 @@
    
 # 4. Result
 ## 4.1 Midi 프로그램과 Arduino Promicro간의 무선 통신
-이미지
-* 미디 프로그램에서 받은 음표 신호를 콘솔을 통해 확인      
+![신호받기1](https://user-images.githubusercontent.com/52540882/116780337-0ab05f00-aab7-11eb-9150-bd82fcb4a19b.png)
+ 
 ![주행 알고리즘](https://user-images.githubusercontent.com/52540882/116739838-2112d800-aa2f-11eb-9afd-f58211392558.PNG)   
-* 미디 프로그램에서 받은 음표 신호를 간단한 LED 회로를 통해서 확인 가능    
+* 미디 프로그램에서 받은 음표 신호를 콘솔을 통해 확인     
 
 ## 4.2 만능기판 솔더링을 통한 회로 제작
 ![차선검출](https://user-images.githubusercontent.com/52540882/116739461-ae096180-aa2e-11eb-84eb-50b906ef0d3b.gif)   
