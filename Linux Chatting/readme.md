@@ -34,4 +34,4 @@
 ![임프 파일전송](https://user-images.githubusercontent.com/52540882/116786874-ffbbf580-aadb-11eb-8246-bf58004aba39.png)
 ![임프 파일전송결과](https://user-images.githubusercontent.com/52540882/116786868-fe8ac880-aadb-11eb-94ba-17ffe0b8d1bf.png)   
 * 전송 결과   
-* 
+
