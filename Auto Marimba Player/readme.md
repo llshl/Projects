@@ -5,7 +5,7 @@
 * midi프로그램으로 부터 악보를 추출하여 마림바 스틱이 장착된 액추에이터로 실제 연주를 하는 모듈 SW 제작
 ****
 # 2. Structure
-## 2.1. 프로그램 프름도
+## 2.1. 프로그램 순서도
 ![마림바 흐름도](https://user-images.githubusercontent.com/52540882/116779905-059de080-aab4-11eb-96ee-aabe680f59f6.PNG)
    
 ****
