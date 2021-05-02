@@ -32,7 +32,7 @@ direction = None
 flag = 0
 OnOff = 1
 if __name__ == "__main__":
-    # cap = cv2.VideoCapture(0) #연결된 웹캠으로 비디오 연결(0)
+    # cap = cv2.VideoCapture(0) 
     cap2 = cv2.VideoCapture(-1)  # maybe this is piCam
     cap = cv2.VideoCapture(1)  # maybe this is webCam
     zodoModule = p.def0(name="0")
@@ -42,7 +42,7 @@ if __name__ == "__main__":
     liderModule.start()
     autoModule.start()
     previous = 0
-    TrafficLight = False  # False일때는 빨간불찾기모드 // True는 파란불찾기 모드 // 처음엔 일단 직전으로시작하므로 일단은 빨간불부터 찾아야한다.
+    TrafficLight = False  
 
     t1 = time.time()
     while (True):
