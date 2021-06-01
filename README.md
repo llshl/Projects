@@ -7,7 +7,7 @@
 
 
 ## 2. [마림바 자동 연주 모듈/Auto Marimba Player](https://github.com/llshl/ToyProject/tree/main/Auto%20Marimba%20Player)(20.06.29~20.08.31)
-- 현장실습 프로젝트
+- 현장실습 프로젝트 
 - Arduino Uno, Promicro 를 사용하여 마림바 자동 연주 엑추에이터 제작
 - Arduino IDE 사용, C/C++언어 기반
 
