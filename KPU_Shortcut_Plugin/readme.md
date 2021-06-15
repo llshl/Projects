@@ -1,6 +1,7 @@
 
 # 1. Overview
 * 한국산업기술대학교 학생들을 위한 자주 사용하는 페이지로의 빠른이동 웨일 브라우저 플러그인
+* https://store.whale.naver.com/detail/oiioipdgaenpfnondocgmdhldcjeiaea
 
 ****
 # 2. Language/Tools
